@@ -1,6 +1,6 @@
-# Project Name
+# Wiki-APi
 
-A brief description of your project.
+The Wiki API is designed to manage a collection of articles in a simple and efficient manner. It provides a set of endpoints to perform various operations, including retrieving all articles, adding new articles, updating existing ones, and deleting articles. The application uses technologies like Express, EJS, and MongoDB to facilitate seamless interaction with the database. Whether you're a developer looking to integrate with the API or a user seeking to manage articles, the wikiDB API offers a straightforward solution for handling these tasks.
 
 ## Table of Contents
 
@@ -29,8 +29,8 @@ This documentation is your guide to the Article-Api project. It use Express, EJS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Olusegun-Light/Article-API.git
-   cd Article-API
+   git clone https://github.com/Olusegun-Light/Wiki-Api.git
+   cd Wiki-API
    ```
 
 2. Install dependencies:
